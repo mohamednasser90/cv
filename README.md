@@ -10,6 +10,14 @@ https://developer.mozilla.org/
 
 $ Emoji WEbsite
 https://emojipedia.org/broccoli/
+$Template For CV
+https://themecrazy.net/html/ultra-preview/ultra/index.html
+https://aazztech.com/demos/themes/html/rida/rida/index3.html#contact
+https://aazztech.com/demos/themes/html/rida/rida/index2.html
+http://trimatrixlab.com/store/flatrica/index-video.html#
+http://linxtheme.com/html/nafida/index-2.html#contact
+http://themes.suelo.pl/mi/index-architecture-vertical.html
+
 
 $ winform Designer  from this Link
 http://aka.ms/winforms-designer
