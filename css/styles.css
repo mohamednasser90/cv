@@ -1,12 +1,99 @@
-
+/*=============================TAG SELECTORS=================================*/
 body{
+color: #40514E;
+  /*background-color: #306d85;*/
+  margin:  0px;
+text-align: center;
 
-background-color: #EAF6F6;
 
+font-family: 'Merriweather', serif;
 }
-img{
+.top-container{
+  background-color: #E4F9F5;
+  padding-top:  100px;
+/*  border:solid 10px;
+  height: 200px;
+  width: 200px;*/
+  position: relative;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+h1{
+  /*margin-top: 0px;*/
+  color: #66BFBF;
+  font-size: 3rem;
+  width: 50%;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2
+{
+    color: #66BFBF;
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+font-weight: normal;
+padding-bottom: 10px ;
+}
+h3{
+    color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.middle-container{
+  /*height: 200px;
+  width: 200px;
+background-color: green;*/
+/*border: solid 20px;
+margin-left: 260px;*/
+margin: 100px 0;
+}
+.bottom-container{
+  width: 70%;
+/*  height: 200px;
+  width: 200px;
+background-color: red;*/
+/*border: solid 10px;
+margin-left: 500px;*/
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.top-cloud{
 
-width:200px;
+position: absolute;
+ right: 300px;
+ top: 50px;
+}
+
+.intro{
+  width:  50%;
+  margin: auto;
+}
+.CircleImg{
+
+border-radius:  100%;
+float: left;
+width: 150px;
+height: 100px;
+}
+.bottom-cloud{
+position: absolute;
+left: 300px;
+bottom: 300px;
+}
+.Underline{
+  text-decoration: underline;
+}
+.Centeralized{
+width: 70%;
+  margin: 0 auto 0 auto;
+}
+#Myphoto{
+
+width:150px;
 }
 hr{
 border-style: none;
@@ -15,16 +102,3 @@ border-color:  grey;
 border-width:5px;
 width: 5%;
 }
-
-h1{
-  color: #66BFBF;
-}
- h3{
-   color: #66BFBF;
- }
-
- /*===========================ID SELECTORS ===========================*/
- #Myphoto:hover{
-
-   background-color: #66BFBF;
- }
