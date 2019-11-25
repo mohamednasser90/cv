@@ -7,26 +7,50 @@
       <link rel="stylesheet" href="css/styles.css">
   </head>
   <body>
-    <h3>Contact me</h3>
-      <p>Name:Mohamed nasser</p>
-    <p>
+    <div class="contact-row">
+      <h3>Contact me</h3>
+        <p>Name:Mohamed nasser</p>
+      <p>
 
-      TEl:0540305120
-      </p>
-      <p>Address:Saudi Arabia,riyadh</p>
+        TEl:0540305120
+        </p>
+        <p>Address:Saudi Arabia,riyadh</p>
+    </div>
+
     <hr>
-      <form action="mailto:eng.mohamednasser90@gmail.com" method="post" enctype="text/plain">
-        <label for="">Your Name</label>
-        <input name="Your Name" type="text"><br />
-        <label for="">Your email</label>
-        <input name="Your email" type="email"><br />
-        <label for="">Your Message</label><br />
-        <textarea name="Your Message" id="" cols="30" rows="10">
+    <div class="contact-row">
 
-        </textarea>
+
+      <form class="contact-form" action="mailto:eng.mohamednasser90@gmail.com" method="post" enctype="text/plain">
+        <table>
+          <tr>
+            <td>  <label for="">Your Name</label></td>
+            <td><input name="Your Name" type="text"></td>
+          </tr>
+          <tr>
+            <td>  <label for="">Your email</label></td>
+            <td>  <input name="Your email" type="email"></td>
+          </tr>
+          <tr>
+            <td>  <label for="">Your Message</label></td>
+            <td>  <textarea name="Your Message" id="" cols="30" rows="10">  </textarea></td>
+          </tr>
+        </table>
+
+        <br />
+
+
+
+
+
+
         <br>
-        <input type="submit">
-      </form>
 
+        <div class="">
+            <input  class="button button2"type="submit">
+            <a class="button button2" href="index.html">back</a>
+        </div>
+      </form>
+  </div>
   </body>
 </html>
