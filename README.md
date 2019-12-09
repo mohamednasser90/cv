@@ -35,4 +35,11 @@ https://dzone.com/articles/27-open-source-web-ui-mockup-tools
 https://www.justinmind.com/free-wireframing-tool
 https://github.com/nwinkler/atom-keyboard-shortcuts/blob/master/README.md
 
+=============================================================================================
+https://github.com/yushulx/electron-document-scan
+https://github.com/balbarak/scanx
+https://github.com/Asprise/scannerjs.javascript-scanner-web-twain-wia-browsers-scanner.js/
+https://github.com/mgriit/ScanAppForWeb
+
+
 
