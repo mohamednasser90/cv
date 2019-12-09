@@ -47,6 +47,8 @@ https://dev.azure.com/Bayanatech20060668/
 https://gojs.net/1.8.35/download.html
 ==========================================================MVC================================
 https://qawithexperts.com/article/asp-net/implementing-forgot-password-functionality-in-aspnet-mvc-res/218
+===================================================Tutorial
+https://www.appbrewery.co/p/web-development-course-resources
 
 
 
