@@ -41,5 +41,12 @@ https://github.com/balbarak/scanx
 https://github.com/Asprise/scannerjs.javascript-scanner-web-twain-wia-browsers-scanner.js/
 https://github.com/mgriit/ScanAppForWeb
 
+=============================================================================================
+https://www.udemy.com/course/the-complete-web-development-bootcamp/
+https://dev.azure.com/Bayanatech20060668/
+https://gojs.net/1.8.35/download.html
+==========================================================MVC================================
+https://qawithexperts.com/article/asp-net/implementing-forgot-password-functionality-in-aspnet-mvc-res/218
+
 
 
