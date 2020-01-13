@@ -49,6 +49,18 @@ https://gojs.net/1.8.35/download.html
 https://qawithexperts.com/article/asp-net/implementing-forgot-password-functionality-in-aspnet-mvc-res/218
 ===================================================Tutorial
 https://www.appbrewery.co/p/web-development-course-resources
+https://sqlhints.com/2014/02/23/how-to-get-time-hour-minute-second-and-millisecond-part-from-datetime-in-sql-server/
+https://xd.adobe.com/view/b843fba9-6512-42b7-6d68-42de0d905387-ce72/screen/edcfd91f-b74b-4018-a168-41c73c990101/-
+https://www.doubleclick.com.eg/Articles/%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%84%D9%8A%D9%81-%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%8A-%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D8%A7%D9%84%D8%AA%D9%83%D9%84%D9%81%D9%87
+https://www.arabstutors.com/cost-accounting/tutorials/cost-accounting-introduction.html
+https://infotechaccountants.com/topic/98361-%D9%82%D9%8A%D9%88%D8%AF-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA%D8%9F/
+https://codewithmosh.com/courses
+http://accountinggate.com/arabic/financial-accounting/sales-accounting.html
+https://www.idealist.org/en/jobs?q=programmers&searchMode=true&sort=relevance
+http://egy-finance.blogspot.com/2014/06/blog-post_10.html
+https://www.excelawy.com/2019/01/chart-of-accounts.html
+https://blog.bradford-jo.com/network-engineering-courses/
+
 
 
 
