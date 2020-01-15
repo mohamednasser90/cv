@@ -60,6 +60,7 @@ https://www.idealist.org/en/jobs?q=programmers&searchMode=true&sort=relevance
 http://egy-finance.blogspot.com/2014/06/blog-post_10.html
 https://www.excelawy.com/2019/01/chart-of-accounts.html
 https://blog.bradford-jo.com/network-engineering-courses/
+https://stackoverflow.com/questions/19733447/bootstrap-navbar-with-left-center-or-right-aligned-items
 
 
 
