@@ -64,4 +64,12 @@ https://stackoverflow.com/questions/19733447/bootstrap-navbar-with-left-center-o
 
 
 
+chart
+
+https://www.zingchart.com/docs/chart-types/bar
+https://canvasjs.com/
+
+
+
+
 
