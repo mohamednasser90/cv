@@ -68,6 +68,7 @@ chart
 
 https://www.zingchart.com/docs/chart-types/bar
 https://canvasjs.com/
+https://roundsliderui.com/demos.html
 
 
 
