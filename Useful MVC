@@ -1,0 +1,31 @@
+https://blog.education-ecosystem.com/c-sharp-url/
+
+1
+string path = HttpContext.Current.Request.Url.AbsolutePath;
+The path string variable will return “/app/homepage.aspx”.
+
+string host = HttpContext.Current.Request.Url.Host;
+1
+string host = HttpContext.Current.Request.Url.Host;
+The host string variable will return “localhost”.
+
+string authority = HttpContext.Current.Request.Url.Authority
+1
+string authority = HttpContext.Current.Request.Url.Authority
+The authority string variable will return “localhost:1345”.
+
+string port = HttpContext.Current.Request.Url.Port
+1
+string port = HttpContext.Current.Request.Url.Port
+The port string variable will return “1345”.
+
+string app_path = HttpContext.Current.Request.ApplicationPath
+1
+string app_path = HttpContext.Current.Request.ApplicationPath
+The app_path string will return “/app”.
+
+string path_and_query = HttpContext.Current.Request.Url.PathAndQuery
+1
+string path_and_query = HttpContext.Current.Request.Url.PathAndQuery
+The path_and_query string will return “/app/homepage.aspx?query1=a&query2=b”.
+
